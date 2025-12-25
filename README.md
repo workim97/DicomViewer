@@ -52,10 +52,7 @@ DicomViewer/
 └── Program.cs        # 진입점
 ```
 
-## 스크린샷
-
-![DicomViewer Screenshot](screenshot.png)
-
 ## 라이선스
 
 MIT License
+
